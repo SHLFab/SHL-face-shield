@@ -1,5 +1,5 @@
 *This page is continiously being updated*
-# Conch-face-shield
+# SHL-face-shield
 An open design for 3d printed protective face shields
 
 It corresponds to both safety regulations and ergonomics while it is optimized for quick 3d printing. 
