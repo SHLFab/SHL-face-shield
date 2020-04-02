@@ -24,4 +24,4 @@ Following settings tested on Ultimaker3:
 
 ### Credits:
 The design is built on several other open source projects including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).
-### Contact:[alimirakbari](https://github.com/alimirakbari)
+#### Contact: [alimirakbari](https://github.com/alimirakbari)
