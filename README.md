@@ -11,6 +11,7 @@ The project started in response to the Covid-19 outbreak to support the supply c
 ![Isometric](resources/isometric.png "isometric")
 * 3D print mesh is provided in the .stl format(in mm)
 * Laser cut drawing for the shield and forhead foam are in the .dxf( in mm)
+* The clear plastic can be any type suitable for laser cuttig.
 #### Print settings:
 Following settings tested on Ultimaker3:
 * Material: 3DE PETG
@@ -20,8 +21,6 @@ Following settings tested on Ultimaker3:
 * Wall thickness: 1.37 mm
 * Fan speed: 100%
 * Infill: 0%*
-
-#### Assembly:
 
 ### Credits:
 The design is built on several other open source projects including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).
