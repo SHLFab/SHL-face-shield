@@ -1,4 +1,4 @@
-*This page is continiously being updated*
+*--This page is continiously being updated--*
 # SHL-face-shield
 ![Side](square-side-profile.png "Side profile") 
 
