@@ -1,5 +1,7 @@
 *This page is continiously being updated*
 # SHL-face-shield
+![Side](square-side-profile.png "Side profile") 
+
 An open design for 3d printed protective face shields
 
 It corresponds to both safety regulations and ergonomics while it is optimized for quick 3d printing. 
@@ -10,4 +12,7 @@ By delivering affordable yet safe design in response to the Coronavirus conditio
 ### Print instructions:
 ### Assembly:
 ### Credits:
-### Contact - [alimirakbari](https://github.com/alimirakbari)
+The design is build on several other open source projects such as Prusa and DK makers. Links to be added
+### Contact:[alimirakbari](https://github.com/alimirakbari)
+*This page is continiously being updated*
+### License:
