@@ -9,8 +9,8 @@ The project started in response to the Covid-19 outbreak to support the supply c
 
 ### Instructions:
 ![Isometric](resources/isometric.png "isometric")
-* 3D print mesh is provided in the .stl format(in mm)
-* Laser cut drawing for the shield and forhead foam are in the .dxf( in mm)
+* 3D print mesh is provided in the .stl format(units:mm)
+* Laser cut drawing for the shield and forhead foam are in .dxf format(units:mm)
 * The clear plastic can be any type suitable for laser cuttig.
 #### Print settings:
 Following settings tested on Ultimaker3:
