@@ -2,11 +2,11 @@
 # SHL-face-shield
 ![Side](square-side-profile.png "Side profile") 
 
-An open design for 3d printed protective face shields
+Ppen design for 3d printed protective face shields
 
 It corresponds to both safety regulations and ergonomics while it is optimized for quick 3d printing. 
 The design is built on best practices, co-creation with users' feedback, and several prototypes. 
-By delivering affordable yet safe design in response to the Coronavirus condition, we are doing our part in supporting the supply chain of non-proprietary protective items.
+The project is started in response to the Covid-19 outbreak to support the supply chain of non-proprietary protective items.
 
 ### Getting Started:
 ### Print instructions:
