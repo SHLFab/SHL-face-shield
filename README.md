@@ -1,7 +1,6 @@
 ### *---This page is continiously being updated---*
 ### *---Content is subject to revision---*
 # SHL-face-shield
-Open design for 3d printed protective face shields
 
 ![Side](resources/square-side-profile.png "Side profile") 
 
@@ -10,17 +9,21 @@ The design is built on best practices, co-creation with users' feedback, and sev
 The project started in response to the Covid-19 outbreak to support the supply chain of non-proprietary protective items.*
 
 ### Instructions:
-#### Print settings:
-*It is tested with following settings on Ultimaker3:
-Material: 3DE PETG
-Nozzle size: 0.8mm
-Speed: 90 mm/s
-Temperture: 235-245 
-Wallthickness: 1.37 mm
-Fan speed: 100%
-Infill: 0%*
-#### Assembly:
 ![Isometric](resources/isometric.png "isometric")
+* 3D print mesh is provided in the .stl format(in mm)
+* Laser cut drawing for the shield and forhead foam are in the .dxf( in mm)
+#### Print settings:
+Following settings tested on Ultimaker3:
+* Material: 3DE PETG
+* Nozzle size: 0.8mm
+* Speed: 90 mm/s
+* Temperture: 235-245 
+* Wall thickness: 1.37 mm
+* Fan speed: 100%
+* Infill: 0%*
+
+#### Assembly:
+
 ### License and Credits:
-The design is build on several other open source projects such as Prusa and DK makers. Links to be added.
+The design is built on several other open source projects including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).
 #### Contact:[alimirakbari](https://github.com/alimirakbari)
