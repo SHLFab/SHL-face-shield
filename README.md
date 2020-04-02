@@ -6,7 +6,7 @@ Open design for 3d printed protective face shields
 
 *It corresponds to both safety regulations and ergonomics while it is optimized for quick 3d printing. 
 The design is built on best practices, co-creation with users' feedback, and several prototypes. 
-The project is started in response to the Covid-19 outbreak to support the supply chain of non-proprietary protective items.*
+The project started in response to the Covid-19 outbreak to support the supply chain of non-proprietary protective items.*
 
 ### Print settings:
 ### Assembly:
