@@ -1,5 +1,4 @@
-### *---This page is continiously being updated---*
-### *---Content is subject to revision---*
+### *---This page is continiously being updated and the content is subject to revision---*
 # SHL-face-shield
 
 ![Side](resources/square-side-profile.png "Side profile") 
@@ -24,6 +23,6 @@ Following settings tested on Ultimaker3:
 
 #### Assembly:
 
-### License and Credits:
+### Credits:
 The design is built on several other open source projects including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).
-#### Contact:[alimirakbari](https://github.com/alimirakbari)
+### Contact:[alimirakbari](https://github.com/alimirakbari)
