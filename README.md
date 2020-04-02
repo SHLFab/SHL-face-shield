@@ -11,7 +11,7 @@ By delivering affordable yet safe design in response to the Coronavirus conditio
 ### Getting Started:
 ### Print instructions:
 ### Assembly:
+### License:
 ### Credits:
 The design is build on several other open source projects such as Prusa and DK makers. Links to be added
-### Contact:[alimirakbari](https://github.com/alimirakbari)
-### License:
+#### Contact:[alimirakbari](https://github.com/alimirakbari)
