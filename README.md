@@ -20,7 +20,7 @@ Following settings tested on Ultimaker3:
 * Temperture: 235-245 
 * Wall thickness: 1.37 mm
 * Fan speed: 100%
-* Infill: 0%*
+* Infill: 0%
 
 #### Credits:
 The design is built on several other open source projects including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).
