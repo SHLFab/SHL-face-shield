@@ -3,7 +3,7 @@
 # SHL-face-shield
 Open design for 3d printed protective face shields
 
-![Side](square-side-profile.png "Side profile") 
+
 
 *It corresponds to both safety regulations and ergonomics while it is optimized for quick 3d printing. 
 The design is built on best practices, co-creation with users' feedback, and several prototypes. 
