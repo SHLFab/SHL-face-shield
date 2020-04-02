@@ -10,7 +10,7 @@ The design is built on best practices, co-creation with users' feedback, and sev
 The project started in response to the Covid-19 outbreak to support the supply chain of non-proprietary protective items.*
 
 ### Instructions:
-
+![Isometric](resources/isometric.png "isometric")
 #### Print settings:
 #### Assembly:
 ### License and Credits:
