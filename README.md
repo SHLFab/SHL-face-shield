@@ -1,4 +1,4 @@
-*--This page is continiously being updated--*
+### *---This page is continiously being updated---*
 # SHL-face-shield
 Open design for 3d printed protective face shields
 
