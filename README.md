@@ -23,5 +23,5 @@ Following settings tested on Ultimaker3:
 * Infill: 0%
 
 #### Credits:
-The design is built on several other open source projects including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).
+*Several other open source projects are reviewed for this project; including [PrusaRC2](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files) and [DK makers mod Corona](https://www.makersmodcorona.dk/hjaelp-med-at-printe).*
 #### Contact: [alimirakbari](https://github.com/alimirakbari)
